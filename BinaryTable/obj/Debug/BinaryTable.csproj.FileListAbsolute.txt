@@ -1,0 +1,5 @@
+C:\Users\Admin\Source\Repos\next\tree generator\BinaryTable\bin\Debug\BinaryTable.exe.config
+C:\Users\Admin\Source\Repos\next\tree generator\BinaryTable\bin\Debug\BinaryTable.exe
+C:\Users\Admin\Source\Repos\next\tree generator\BinaryTable\bin\Debug\BinaryTable.pdb
+C:\Users\Admin\Source\Repos\next\tree generator\BinaryTable\obj\Debug\BinaryTable.exe
+C:\Users\Admin\Source\Repos\next\tree generator\BinaryTable\obj\Debug\BinaryTable.pdb
