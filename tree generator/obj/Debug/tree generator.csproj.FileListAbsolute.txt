@@ -4,3 +4,9 @@ C:\Users\Admin\Source\Repos\next\tree generator\tree generator\bin\Debug\tree ge
 C:\Users\Admin\Source\Repos\next\tree generator\tree generator\obj\Debug\tree generator.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Source\Repos\next\tree generator\tree generator\obj\Debug\tree generator.exe
 C:\Users\Admin\Source\Repos\next\tree generator\tree generator\obj\Debug\tree generator.pdb
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\bin\Debug\tree generator.exe.config
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\bin\Debug\tree generator.exe
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\bin\Debug\tree generator.pdb
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\obj\Debug\tree generator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\obj\Debug\tree generator.exe
+C:\Users\Admin\Source\Repos\next\RDF-Tree\tree generator\obj\Debug\tree generator.pdb
